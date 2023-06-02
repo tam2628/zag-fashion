@@ -1,0 +1,13 @@
+.carousel-container::-webkit-scrollbar {
+  display: none;
+}
+
+.carousel-container {
+  -ms-overflow-style: none;
+}
+
+.footer-nav {
+  box-shadow: -2px -5px 8px 1px rgba(0, 0, 0, 0.18);
+  -webkit-box-shadow: -2px -5px 8px 1px rgba(0, 0, 0, 0.18);
+  -moz-box-shadow: -2px -5px 8px 1px rgba(0, 0, 0, 0.18);
+}
