@@ -1,5 +1,7 @@
 ## How to run the project
 
+Note: This project was only made for mobile screen
+
 Install dependencies
 
 ```
